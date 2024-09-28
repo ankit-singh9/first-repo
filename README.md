@@ -1,2 +1,3 @@
 # first-repo
-auther ankit singh
+auther---> ankit singh
+rbmi collage
