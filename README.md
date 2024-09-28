@@ -1,4 +1,4 @@
 # first-repo
 auther---> ankit singh
 <br>
-rbmi collage
+rbmi collage(bareilly)
